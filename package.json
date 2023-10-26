@@ -1,0 +1,14 @@
+{
+  "name": "mediabackend",
+  "version": "1.0.0",
+  "description": "mediabackend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mohd kp",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
